@@ -7,6 +7,15 @@ This is a fully functional **customer-side e-commerce website** built using **Re
 UI:
 
 ![image](https://github.com/user-attachments/assets/4c76c5ec-8902-4bb2-9db6-5478bff41d18)
+![image](https://github.com/user-attachments/assets/0d7be6af-e596-4bae-9911-be342d05ffc9)
+![image](https://github.com/user-attachments/assets/b0dc0075-a60e-4edc-b337-288c40e222bd)
+![image](https://github.com/user-attachments/assets/1e12fc66-7eea-4e4a-9471-c8b269376566)
+![image](https://github.com/user-attachments/assets/2a693557-321c-4004-93df-81fe4c86778b)
+![image](https://github.com/user-attachments/assets/0ca682ee-784a-44eb-855c-68660cfb9af1)
+
+
+
+
 
 
 ---
